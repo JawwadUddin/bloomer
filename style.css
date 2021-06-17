@@ -33,13 +33,13 @@ a {
 main {
     max-width: 1024px;
     margin: 0 auto;
-    /* border:solid 1px gold; */
     height: 1000px;
 }
 
 section img {
     width: 100%;
     height: auto;
+    margin-top: 140px;
 }
 
 h2, p {
