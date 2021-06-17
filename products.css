@@ -70,7 +70,7 @@ a {
 }
 
 /* Tablet view */
-@media (max-width: 768px) {
+@media (max-width: 820px) {
    .col {width: 45%}
    .hide-desktop-only {display: block;}
    .logo {margin-left: 10px;}
